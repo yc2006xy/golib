@@ -1,0 +1,1 @@
+module "github.com/wild46cat/golib"
